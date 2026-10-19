@@ -21,6 +21,8 @@ one-off instructions, secrets, or anything about other people.
 - Prefer one concrete, real example over a list of principles or slogans.
 - Do not state facts about my projects that you have not checked in the
   repositories or that I have not told you. When unsure, ask.
+- Work I did for employers or clients is confidential. Do not suggest publishing
+  it, and do not name those projects on my profile, sites, or in this repository.
 
 ## Working with me
 
